@@ -44,7 +44,7 @@ export default function Home() {
       </main>
 
       <footer className="opacity-40 text-2xl flex h-24 w-full items-center justify-center">
-        Powered By Ethereum
+        Made By Rachit Gupta
       </footer>
     </div>
   );
